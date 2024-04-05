@@ -119,9 +119,14 @@ footer {
 }
 .row {
     display: flex;
+    flex-wrap: wrap;
     justify-content: center;
     gap: 120px;
+    margin-bottom: 30px;
+    margin-left: 2%;
+    margin-right: 2%; 
 }
+
 .item {
     text-align: center;
 }
