@@ -148,4 +148,8 @@ footer {
     opacity: 0.8;
     font-size: 14px;
 }
-
+.penjelas {
+        font-size: 40px;
+        font-weight: normal;
+        margin-bottom: 60px;
+}
