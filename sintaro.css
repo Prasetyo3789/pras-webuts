@@ -66,3 +66,27 @@ footer {
     bottom: 0;
     width: 100%;
 }
+.main {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.main .judul {
+    text-align: center;
+    font-size: 54px;
+    font-weight: 600;
+}
+.main .tombol {
+    color: black;
+    margin-top: 40px;
+    font-size: 28px;
+    padding: 20px;
+    border-radius: 50px;
+    background-color: #fff;
+}
+.tombol a {
+    text-decoration: none;
+    color: black;
+}
