@@ -1,6 +1,9 @@
 * {
     text-decoration: none;
 }
+html {
+    scroll-behavior: smooth;
+}
 body {
     font-family: Arial, sans-serif;
     margin: 0;
@@ -122,9 +125,8 @@ footer {
     flex-wrap: wrap;
     justify-content: center;
     gap: 120px;
+    padding: 2%;
     margin-bottom: 30px;
-    margin-left: 2%;
-    margin-right: 2%; 
 }
 
 .item {
